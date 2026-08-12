@@ -1,0 +1,17 @@
+{
+  "default": {
+    "total": 1500,
+    "categories": {
+      "Food & Dining": 200,
+      "Groceries": 300,
+      "Shopping": 250,
+      "Utilities": 150,
+      "Travel & Transport": 150,
+      "Entertainment": 100,
+      "Healthcare": 100,
+      "Education": 150,
+      "Others": 100
+    }
+  },
+  "monthly": {}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Receipt Categorizer",
+  "description": "An AI-Powered Expense & Receipt Categorizer with automated detail extraction, line-item parsing, and interactive visual dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
